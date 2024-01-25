@@ -1,8 +1,8 @@
 /*
-*	Author:- Venkateswara Kumar
+*	Author:- Rahul Malhotra
 *	Description:- This is the controller class for SFDC Stop Team Component
 *	Created:- 21-06-2020
-*	Last Updated:- 25-1-2024
+*	Last Updated:- 21-06-2020
 *   Change Log:-
 *   SNo.        Name        Date        Description
 */
@@ -426,6 +426,15 @@ public class SFDCStopTeamController {
                 'https://avatars.githubusercontent.com/u/61358687?v=4',
                 Date.newInstance(2023, 08, 12),
                 'https://www.salesforce.com/trailblazer/logeshm'
+            )
+            
+        );
+        sfdcstopContributors.add(
+            new Contributor(
+                'Venkateswara kumar k',
+                'https://avatars.githubusercontent.com/u/17331754?v=4',
+                Date.newInstance(2023, 08, 12),
+                'https://www.salesforce.com/trailblazer/kvkumar0538'
             )
             
         );
